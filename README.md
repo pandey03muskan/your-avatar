@@ -1,5 +1,5 @@
 # your Avatar
-enter your name and get our avatar........
+Enter your name and get your avatar........
 ---
 
  <img src="Screenshot 2023-10-03 231919.png" height="300px">
