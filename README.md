@@ -1,7 +1,6 @@
-# Learning_by_doing_projects
-Basic projects during learning stage........
+# your Avatar
+enter your name and get our avatar........
 ---
-**Find Your Avatar**
 
  <img src="Screenshot 2023-10-03 231919.png" height="300px">
  
